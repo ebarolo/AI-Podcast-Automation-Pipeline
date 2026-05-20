@@ -1,4 +1,4 @@
-# Podcast-Automation-Pipeline con Gemini 3
+# AI-Talk-Radio-Show con Gemini 3
 Questo notebook automatizza il workflow creativo per la produzione del podcast Partendo da un documento di Google Docs
 
 Script Audio ottimizzato con tecniche di PNL (Gemini).
